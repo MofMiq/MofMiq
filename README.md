@@ -3,12 +3,12 @@
 #### Currently studyng to become a Videogame Developer :video_game:
 
 - 🔭 I’m currently studying Software Developer in **<a href="https://www.42malaga.com/"> 42 Malaga</a>**.
-- 🌱 I’m currently working on my projects at 42 and learning to develop video games through self-study.
+- 🌱 I’m currently working on my projects at 42 and learning to develop videogames through self-study. See my itchio profile **<a href="https://itch.io/profile/falkarina"> here</a>** 👾 .
 - :joystick: I'm interested in Unity, Unreal and any other game engine as well.
 
 <br>
 <p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cll4yf77a004508l7lq350kdo/stats?cursusId=21&coalitionId=275" alt="marirodr's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/marirodr?1337Badge=off&UM6P=off" alt="marirodr's 42 stats" /></a>
 </p>
 <br>
  
